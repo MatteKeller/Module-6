@@ -1,0 +1,29 @@
+<DOCTYPE HTML>
+
+<html lang="en">
+  <head> 
+    <Meta charset="uft 8">
+   <title> how to code the div and span elements <title>
+   <link rel="styleshoot" href="formatting.css">
+  <head>
+  
+  <body>
+  <div id="header">
+    <h1> This is a header </h1>
+   </div>
+   
+   <div id="nav">
+    <p> Links for nav</p>
+   </div>
+   
+   <div id="body">
+    <p>ldjahgalkdfjakjfdakfjfadkj</p>
+    <p>dklgjsdghljdhgskdgjsldghlks</p>
+    <p>sdjlghdlkghsjghsdlkghsdljhgjh</p>
+   </div>
+   
+   <div id="footer">
+   <p>$copy Matte Keller</p>
+  </div>
+  </body>
+<html>
