@@ -1,0 +1,12 @@
+#header(
+background-color:red;
+)
+#nva(
+background-color; blue;
+)
+#body(
+background-color: yellow;
+)
+#footer(
+backround-color: green;
+)
